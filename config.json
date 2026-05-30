@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdave",
+        "uuid": 5910656,
+        "checksum": "4itkhk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
